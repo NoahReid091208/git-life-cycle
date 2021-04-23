@@ -2,3 +2,6 @@ Toyota Supra
 It has a 335 horsepower inline six-cyclinder turbochared engine that's paired with an eight-speed automatic transmission and rear-wheel drive. Featuring a low center of gravity and a 50-50 weight balance, it also optimizes aerodynamic balance.
 Audi R8
 The new Audi R8 V10 accelerates from 0 to 100 km/h (62.1 mph) in 3.5 seconds and has a top speed of 320 km/h (198.8 mph).
+Nissan GTR
+The 565-horsepower, twin-turbo V-6 powering the Nissan provides massive amounts of thrust from a standstill, rocketing to 60 in only 2.9 seconds with launch control enabled.
+
